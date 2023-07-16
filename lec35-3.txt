@@ -1,0 +1,9 @@
+hash tables 
+
+what is hashing 
+it is all about key and value 
+what is a value?
+what is a key?
+we find the position using the key and in that position of key we store the value
+how to find value using key??
+where the value is aloocated in table is found using "hey"
